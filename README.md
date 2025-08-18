@@ -1,3 +1,11 @@
+### 🎥 Демонстрация работы
+
+[![Демонстрация работы программы на YouTube](https://img.youtube.com/vi/6T9xJBeij1U/0.jpg)](https://www.youtube.com/watch?v=6T9xJBeij1U)
+
+*<p align="center">Нажмите на картинку, чтобы посмотреть видео-обзор на YouTube</p>*
+
+---
+
 # Генератор HTML-анкет с отправкой в Telegram и Google Sheets
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
